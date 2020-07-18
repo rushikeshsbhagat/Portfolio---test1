@@ -1,0 +1,114 @@
+body {
+    margin: 20;
+    text-align: center;
+}
+.name {
+    font-size: 40px;
+    font-family: 'Great Vibes', cursive;
+}
+.title {
+    position: relative;
+    font-family: 'Ubuntu Mono', monospace;
+    padding-bottom: 0px;
+}
+.top-container {
+    background-color: #e3f6f5;
+    padding: 10px;
+}
+.bottom-container{
+    background-color: #e3f6f5;
+    padding-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    margin: 0px;
+}
+.heading {
+    font-family: cursive;
+    margin-top: 0px;
+    position: relative;
+}
+.background {
+    
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+.skill-row {
+    padding: 100px;
+    padding-top: 30px;
+}
+.profile-photo {
+    height: 200px;
+    padding: 100px;
+    padding-bottom: 40px;
+}
+.css-skill {
+    height: 100px;
+    padding: 30px;
+}
+.github-skill {
+    height: 100px;
+    padding: 30px;
+}
+.html-skill {
+    height: 100px;
+    padding: 30px;
+}
+.js-skill {
+    height: 100px;
+    padding: 30px;
+}
+.sql-skill {
+    height: 100px;
+    padding: 30px;
+}
+.php-skill {
+    height: 100px;
+    padding: 30px;
+}
+.python-skill {
+    height: 100px;
+    padding: 30px;
+}
+.greeting {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.desc {
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #1b1b2f;
+    border-width: 5px;
+    width: 3%;
+    padding-top: 40px;
+}
+.skill-head {
+    padding: 50px auto 10px auto;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-ser
+    
+}
+
+.get-in {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.contact-me {
+    background-color: #e3f6f5;
+}
+.mail {
+    font-family: 'Poppins', sans-serif;
+}
+.contact-add {
+    font-family: 'Poppins', sans-serif;
+}
+.btn {
+    font-family: 'Poppins', sans-serif;
+}
