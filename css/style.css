@@ -3,13 +3,15 @@ body {
     text-align: center;
 }
 .name {
-    font-size: 40px;
+    font-size: 60px;
     font-family: 'Great Vibes', cursive;
+    margin-bottom: 0;
 }
 .title {
     position: relative;
     font-family: 'Ubuntu Mono', monospace;
     padding-bottom: 0px;
+    font-size: 1.2rem;
 }
 .top-container {
     background-color: #e3f6f5;
@@ -18,10 +20,12 @@ body {
 .bottom-container{
     background-color: #e3f6f5;
     padding-bottom: 20px;
+    padding-top: 20px;
     font-family: 'Poppins', sans-serif;
-
 }
-
+.middle-container {
+    padding-bottom: 50px;
+}
 body {
     margin: 0px;
 }
@@ -80,6 +84,7 @@ body {
 .desc {
     font-family: 'Poppins', sans-serif;
     padding-bottom: 50px;
+    line-height: 2;
 }
 hr {
     border-style: dotted none none;
@@ -94,14 +99,10 @@ hr {
     font-family: 'Montserrat', sans-ser
     
 }
-
 .get-in {
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
-    padding-top: 20px;
-}
-.contact-me {
-    background-color: #e3f6f5;
+    padding-top: 0px;
 }
 .mail {
     font-family: 'Poppins', sans-serif;
@@ -112,3 +113,22 @@ hr {
 .btn {
     font-family: 'Poppins', sans-serif;
 }
+.footer-link {
+    padding-right: 20px;
+}
+.span {
+    text-decoration-color: #66BFBF;
+}
+a {
+    color: #66BFBF;
+}
+.button {
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
